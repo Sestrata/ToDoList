@@ -1,0 +1,49 @@
+
+#box {
+    margin: 2rem auto;
+    text-align: center;
+    padding: 6px;
+    width: 50%;
+    background-color: rgba(98, 206, 170, 0.699);
+    border-radius: 6px;
+}
+
+input {
+    padding: 8px 12px;
+    border-radius: 6px;
+    border: none;
+    margin-right: 6px;
+}
+
+button {
+    border-radius: 6px;
+    border: none;
+    padding: 8px;
+    background-color: rgba(78, 162, 134, 0.699);
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: rgba(188, 246, 227, 0.86);
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin: 10px 0;
+}
+
+.delBtn {
+    border-radius: 6px;
+    border: none;
+    padding: 4px 8px;
+    margin-left: 6px;
+    color: rgba(209, 116, 116, 0.918);
+    background-color: white;
+}
+
+.delBtn:hover {
+    cursor: pointer;
+}
